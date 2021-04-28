@@ -1,0 +1,10 @@
+com/example/prototype2/MainActivity.java
+ com.example.prototype2.MainActivity
+com/example/prototype2/MainActivity3.java
+ com.example.prototype2.MainActivity3
+com/example/prototype2/BuildConfig.java
+ com.example.prototype2.BuildConfig
+com/example/prototype2/MainActivity4.java
+ com.example.prototype2.MainActivity4
+com/example/prototype2/MainActivity2.java
+ com.example.prototype2.MainActivity2
